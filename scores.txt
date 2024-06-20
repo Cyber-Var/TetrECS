@@ -1,0 +1,5 @@
+qqq = 5390
+Player A = 5000
+Player B = 4000
+Player C = 3000
+renata = 2680
