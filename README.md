@@ -5,7 +5,8 @@
 ## Description
 
 TetrECS is a Tetris-like game. The user has a game field with limited spaces. Tiles of different shapes appear on the screen. The player has limited time to place the tile on the field. 
-The player has three lives. A life is lost whenever a current tile cannot be placed on the field as there are no places. When all three lives are lost, the game is over.
+The player has three lives. A life is lost whenever a current tile cannot be placed on the field as there are no spaces. When all three lives are lost, the game is over.
+
 <img width="792" alt="Screenshot 2024-06-20 at 18 03 04" src="https://github.com/Cyber-Var/TetrECS/assets/58626516/e072e125-d568-49bd-a6ce-1f2e3a4dbbda">
 
 ## Instructions
@@ -16,4 +17,4 @@ There is a page with instructions within the application that contains detailed 
 
 ## Multiplayer mode
 
-The game offers a multiplayer mode, where multiple players can compete against each other in terms of who will get the highest score, as well as communicate with each other using the chat.
+The game offers a multiplayer mode, where multiple players can compete against each other in terms of who will get the highest score, as well as communicate through the chat.
